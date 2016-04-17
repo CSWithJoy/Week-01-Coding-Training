@@ -1,6 +1,15 @@
 # Week-01-Coding-Training
 Homework of week 01. 11 individual problems for each member.
-## 注明
+
+## Problems
+>[Problem List @vjudge](http://acm.hust.edu.cn/vjudge/contest/view.action?cid=113219#overview)
+
+[A-K]Plan_Z: LightOJ 1004, 1005, 1011, 1013, 1017, 1018, 1021, 1025, 1027, 1030, 1031.
+
+[L-V]Plan_A: LightOJ 1113, 1212, 1303, 1080, 1085, 1112, 1266, 1343, 1348, 1372, 1402.
+
+
+## Notice
 所有队员请务必拥有自己的github账号, 并且folk此repo, 将自己的作业通过pull的方法上传.
 
 所有队员将自己的文件放置到以自己的id与自己的方案为名字的文件夹当中.
