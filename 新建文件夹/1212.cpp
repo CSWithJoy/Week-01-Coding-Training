@@ -1,4 +1,4 @@
-//模拟双端队列的操作，用stl的deque实现
+//妯℃嫙鍙岀闃熷垪鐨勬搷浣滐紝鐢╯tl鐨刣eque瀹炵幇
 #include <iostream>
 #include<cstdio>
 #include<deque>

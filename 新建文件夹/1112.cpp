@@ -1,4 +1,4 @@
-//¼òµ¥Ïß¶ÎÊ÷ÎÊÌâÓÐÈýÖÖ²Ù×÷£º¶¨µãÇå¿Õ£¬¶¨µã¸úÐÂ£¬ºÍÇø¼ä²éÑ¯
+//ç®€å•çº¿æ®µæ ‘é—®é¢˜æœ‰ä¸‰ç§æ“ä½œï¼šå®šç‚¹æ¸…ç©ºï¼Œå®šç‚¹è·Ÿæ–°ï¼Œå’ŒåŒºé—´æŸ¥è¯¢
 #include <iostream>
 #include<cstdio>
 #include<cstring>
