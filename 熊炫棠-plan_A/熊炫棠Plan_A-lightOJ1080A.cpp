@@ -1,3 +1,5 @@
+/*线段树改区间。。不知道正常的应该怎么弄，想起来上次涂气球的题，，就用1到x的和表示改变的次数吧
+*/
 #include<iostream>
 #include<list>
 #include<cstdio>
@@ -31,7 +33,7 @@ void pro(){
     memset(tree,0,sizeof(tree));
     for(int i=1;i<=q;i++){
         scanf("%c",&w);
-        while(w!='I'&&w!='Q')
+        while(w!='I'&&w!='Q')       //char玩的太烂，感觉输出都会被他读0 0，强行这样写。
         scanf("%c",&w);
  //       printf("%c\n",w);
         if(w=='I'){
@@ -39,7 +41,7 @@ void pro(){
             scanf("%d%d",&x,&y);
             change(1,1,s,x,1);
             if(y!=s)
-                change(1,1,s,y+1,-1);
+                change(1,1,s,y+1,-1);   //注意x到y改变所以应该在y+1处开始记上-1
  //           for(int j=1;j<=s;j++)   printf("%d ",query(1,1,s,j,j));
  //           printf("\n");
         }

@@ -1,3 +1,5 @@
+/*¾ÍÏß¶ÎÊ÷¿©
+*/
 #include<iostream>
 #include<cstdio>
 #include<cmath>
